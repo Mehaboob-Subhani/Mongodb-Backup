@@ -8,8 +8,8 @@ MONGO_PORT='27017'
 # Set AUTH_ENABLED to 1 
 # and add MONGO_USER and MONGO_PASSWD values correctly 
 AUTH_ENABLED=1 
-MONGO_USER='proelium' 
-MONGO_PASSWD='proelium' 
+MONGO_USER='user' 
+MONGO_PASSWD='admin' 
 # Set DATABASE_NAMES to "ALL" to backup all databases. 
 # or specify databases names seprated with space to backup 
 # specific databases only.
